@@ -1,0 +1,4 @@
+*.o
+deps.mk
+eslmp_dec
+eslmp_enc
